@@ -3,7 +3,7 @@ export const products = [
  {id:'black',name:'Блекбургер',category:'Бургеры',price:20000,image:'blackburger-v3.webp',note:'Тот самый, в чёрной булочке'},
  {id:'phila',name:'Филадельфия',category:'Роллы',price:25000,image:'philadelphia-v3.webp',note:'Нежный вкус для вашего вечера'},
  {id:'fries',name:'Картофель фри',category:'Закуски',price:12000,image:'fries-v3.webp',note:'Золотистый и хрустящий'},
- {id:'pizza',name:'Пепперони',category:'Пицца',price:25000,image:'pizza-v3.webp',note:'Базовый вариант по меню'},
+ {id:'pizza',name:'Пепперони',category:'Пицца',price:25000,image:'pizza-v3.webp',note:'Сочная пепперони с тягучим сыром'},
  {id:'shawarma',name:'Шаурма',category:'Шаурма',price:15000,image:'shawarma-v3.webp',note:'Всё любимое в лаваше'},
  {id:'nuggets',name:'Наггетсы · 6 шт.',category:'Закуски',price:12000,image:'nuggets-v3.webp',note:'Хрустящий повод дополнить заказ'},
  {id:'caesar',name:'Цезарь с курицей',category:'Салаты',price:25000,image:'salad-v3.webp',note:'Когда хочется чего-то лёгкого'}
